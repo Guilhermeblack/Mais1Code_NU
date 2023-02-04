@@ -1,0 +1,45 @@
+<script>
+
+    // var string = "Mais 1 Code";
+
+    // var numerica = 1
+
+    // var booleana = false;
+
+    // let variavel = "Variável teste";
+
+    // const variavel_constante = true;
+
+    // undefined;
+
+    // null;
+
+
+
+
+
+
+
+    function resultado(){
+
+        const nome = "Rafael";
+
+        let namorado = "Gabriela";
+
+        const frase = "São Paulo campeão 2023";
+
+        const numero = 5;
+
+        let numero_decimal = 2.5;
+
+        let renner;
+        
+        console.log(  nome  );
+
+
+    }
+    
+
+
+
+</script>
